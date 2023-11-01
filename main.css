@@ -456,6 +456,7 @@ font-size: 1rem;
   padding: .5rem 3.5rem;
   border-radius: .2rem;
   border: none;
+  cursor: pointer;
 
 }
 
@@ -511,6 +512,7 @@ font-size: 1rem;
   padding: .5rem 3.5rem;
   border-radius: .2rem;
   border: none;
+  cursor: pointer;
 
 }
 
@@ -569,5 +571,6 @@ font-size: 1rem;
   padding: .5rem 3.5rem;
   border-radius: .2rem;
   border: none;
+  cursor: pointer;
 
 }
